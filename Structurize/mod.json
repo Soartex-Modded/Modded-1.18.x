@@ -1,0 +1,12 @@
+{
+    "mod_filename": "structurize-1.18.2-1.0.424-ALPHA.jar",
+    "mod_id": "structurize",
+    "mod_name": "Structurize",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "LDT Team"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/structurize",
+    "description": "An astonishing way to copy&paste structures, cookies included",
+    "mod_dir": "/Structurize/"
+}
