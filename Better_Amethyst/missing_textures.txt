@@ -1,0 +1,10 @@
+Blocks:
+
+amethyst_bricks.png
+amethyst_crystal_block.png
+amethyst_crystal_lamp.png
+amethyst_redstonelamp_off.png
+amethyst_redstonelamp_on.png
+
+
+
