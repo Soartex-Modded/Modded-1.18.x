@@ -1,0 +1,15 @@
+Item:
+
+infinity_booster_card.png
+magnet_card.png
+wireless_fluid_terminal.png
+wireless_pattern_access_terminal.png
+wireless_pattern_encoding_terminal.png
+wireless_universal_terminal.png
+
+Gui
+
+crafting.png
+magnet.png
+
+
