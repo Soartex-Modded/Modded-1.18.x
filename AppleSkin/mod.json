@@ -1,0 +1,12 @@
+{
+    "mod_filename": "applesking-forge-mc1.18.2-2.4.1.jar",
+    "mod_id": "angelring",
+    "mod_name": "AppleSkin",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "squeek502"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+    "description": "",
+    "mod_dir": "/AppleSkin/"
+}
