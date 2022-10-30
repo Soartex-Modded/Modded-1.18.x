@@ -1,0 +1,12 @@
+{
+    "mod_filename": "Applied-Botanics-1.0.2-alpha.jar",
+    "mod_id": "appbot",
+    "mod_name": "Applied Botanics Addon",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "ramidzkh"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/applied-botanics-addon",
+    "description": "",
+    "mod_dir": "/Applied_Botanics_Addon/"
+}
