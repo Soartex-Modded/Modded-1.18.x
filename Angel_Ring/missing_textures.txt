@@ -1,0 +1,8 @@
+Item:
+
+energetic_angel_ring.png
+hardened_angel_ring.png
+itemdiamondring.png
+leadstone_angel_ring.png
+reinforced_angel_ring.png
+resonant_angel_ring.png
