@@ -36,5 +36,15 @@ drive\cells\256k_item_cell.png
 drive\cells\creative_cell.png
 drive\cells\default_cell.png
 
+Item:
+
+debug\chunk_loader.png
+debug\cube_gen.png
+debug\energy_gen.png
+debug\eraser.png
+debug\item_gen.png
+debug\meteorite_placer.png
+debug\phantom_node.png
+wooden_gear.png - looking for where this is used, so can use Soartex Base instead.
 
 
