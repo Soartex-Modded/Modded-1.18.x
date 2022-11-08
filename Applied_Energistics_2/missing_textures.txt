@@ -45,6 +45,21 @@ debug\eraser.png
 debug\item_gen.png
 debug\meteorite_placer.png
 debug\phantom_node.png
+card_energy.png
+card_equal_distribution.png
+card_void.png
+portable_cell_led.png
+portable_fluid_cell_1k.png
+portable_fluid_cell_4k.png
+portable_fluid_cell_16k.png
+portable_fluid_cell_64k.png
+portable_fluid_cell_256k.png
+portable_item_cell_1k.png
+portable_item_cell_4k.png
+portable_item_cell_16k.png
+portable_item_cell_64k.png
+portable_item_cell_256k.png
+storage_cell_led.png
 wooden_gear.png - looking for where this is used, so can use Soartex Base instead.
 
 
