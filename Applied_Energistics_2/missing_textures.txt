@@ -63,3 +63,27 @@ storage_cell_led.png
 wooden_gear.png - looking for where this is used, so can use Soartex Base instead.
 
 
+Part:
+
+p2p_tunnel_fluid.png
+pattern_access_terminal.png
+pattern_access_terminal_bright.png
+pattern_access_terminal_dark.png
+pattern_access_terminal_medium.png
+pattern_provider.png
+translucent_facade.png
+
+Guis:
+
+cpu_selector.png
+craft_error.png
+energy_level_emitter.png
+extra_panels.png
+interfaceterminal.png
+jei.png
+level_emitter.png
+pattern_modes.png
+pattern_provider.png
+spatialanchor.png
+states.png
+text_field.png
