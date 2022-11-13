@@ -1,1 +1,6 @@
 - Compile list of missing textures for Ars Nouveau
+- Ars Elemental
+- Ars Creo
+- Ars Instrumentum
+- Ars Omega
+- AttributeFix
