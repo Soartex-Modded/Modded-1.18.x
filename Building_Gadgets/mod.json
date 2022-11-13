@@ -1,0 +1,12 @@
+{
+    "mod_filename": "buildinggadgets-3.13.0-build.5+mc1.18.2.jar",
+    "mod_id": "buildinggadgets",
+    "mod_name": "Building Gadgets",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "Direwolf20"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets",
+    "description": "",
+    "mod_dir": "/Building_Gadgets/"
+}
