@@ -23,18 +23,6 @@ debug\cube_gen.png
 debug\energy_gen.png
 debug\item_gen.png
 debug\phantom_node.png
-drive\cells\1k_fluid_cell.png
-drive\cells\4k_fluid_cell.png
-drive\cells\16k_fluid_cell.png
-drive\cells\64k_fluid_cell.png
-drive\cells\256k_fluid_cell.png
-drive\cells\1k_item_cell.png
-drive\cells\4k_item_cell.png
-drive\cells\16k_item_cell.png
-drive\cells\64k_item_cell.png
-drive\cells\256k_item_cell.png
-drive\cells\creative_cell.png
-drive\cells\default_cell.png
 
 Item:
 
