@@ -1,0 +1,12 @@
+{
+    "mod_filename": "ChiselsBits-forge-1.18.2-1.2.144-universal.jar",
+    "mod_id": "chiselsandbits",
+    "mod_name": "Chisels & Bits - For Forge",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "AlgorithmX2"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits",
+    "description": "",
+    "mod_dir": "/Chisels_&_Bits/"
+}
