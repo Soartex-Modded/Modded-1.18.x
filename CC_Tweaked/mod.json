@@ -1,0 +1,12 @@
+{
+    "mod_filename": "cc-tweaked-1.18.2-1.101.0.jar",
+    "mod_id": "computercraft",
+    "mod_name": "CC: Tweaked",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "SquidDev"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/cc-tweaked",
+    "description": "",
+    "mod_dir": "/CC_Tweaked/"
+}
