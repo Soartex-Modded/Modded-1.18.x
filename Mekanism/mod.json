@@ -1,0 +1,16 @@
+{
+    "mod_filename": "Mekanism-1.18.2-10.2.5.465.jar",
+    "mod_id": "mekanism",
+    "mod_name": "Mekanism",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "Aidancbrady",
+		"Thommy101",
+		"Thiakil",
+		"pupnewfster",
+		"dizzyd"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/mekanism",
+    "description": "Mekanism is a Minecraft add-on featuring high-tech machinery that can be used to create powerful tools, armor, and weapons.",
+    "mod_dir": "/Mekanism/"
+}

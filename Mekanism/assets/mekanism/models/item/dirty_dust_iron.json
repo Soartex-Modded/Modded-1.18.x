@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "soartex_base:items/dust/dirty/iron"
+  }
+}
