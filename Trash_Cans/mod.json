@@ -1,0 +1,12 @@
+{
+    "mod_filename": "trashcans-1.0.15-forge-mc1.18.jar",
+    "mod_id": "trashcans",
+    "mod_name": "Trash Cans",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "SuperMartijn642"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/trash-cans",
+    "description": "",
+    "mod_dir": "/Trash_Cans/"
+}
