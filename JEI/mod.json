@@ -1,0 +1,12 @@
+{
+    "mod_filename": "jei-1.18.2-forge-10.2.1.283.jar",
+    "mod_id": "jei",
+    "mod_name": "JEI",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "mezz"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/jei",
+    "description": "View Items and Recipes",
+    "mod_dir": "/JEI/"
+}
