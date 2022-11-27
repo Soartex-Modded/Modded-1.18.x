@@ -1,0 +1,13 @@
+{
+    "mod_filename": "thermal_foundation-1.18.2-9.1.0.34.jar",
+    "mod_id": "thermal",
+    "mod_name": "Thermal Foundation",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "TeamCoFH",
+        "KingLemmingCoFH"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/thermal-foundation",
+    "description": "The Foundation of a Thermally Expanding World!",
+    "mod_dir": "/Thermal_Foundation/"
+}
