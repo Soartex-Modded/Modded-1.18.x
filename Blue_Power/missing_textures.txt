@@ -1,0 +1,10 @@
+Base:
+
+alloy_off.png
+alloy_on.png
+bluestone_off.png
+bluestone_on.png
+redstone_off.png
+redstone_on.png
+wire.png
+

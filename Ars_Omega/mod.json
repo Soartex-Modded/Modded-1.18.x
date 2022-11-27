@@ -1,0 +1,12 @@
+{
+    "mod_filename": "arsomega-2.7.0.jar",
+    "mod_id": "arsomega",
+    "mod_name": "Ars Omega",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "dkmk100_ludum_dare"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/ars-omega",
+    "description": "",
+    "mod_dir": "/Ars_Omega/"
+}

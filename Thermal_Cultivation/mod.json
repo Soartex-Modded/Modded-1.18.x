@@ -1,0 +1,12 @@
+{
+    "mod_filename": "thermal_cultivation-1.18.2-9.1.0.14.jar",
+    "mod_id": "thermal",
+    "mod_name": "Thermal Cultivation",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "TeamCoFH"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation",
+    "description": "",
+    "mod_dir": "/Thermal_Cultivation/"
+}
