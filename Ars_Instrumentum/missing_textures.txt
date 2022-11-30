@@ -1,0 +1,11 @@
+Items:
+
+_glyph_template_augment.png
+_glype_template_component.png
+_glyph_template_fort.png
+copy_paste_spell_scroll.png
+fake_wilden_tribute.png
+numeric_mana_charm.png
+runic_storage_stone.png
+scroll_of_save_starbuncle.png
+wizards_armarium.png

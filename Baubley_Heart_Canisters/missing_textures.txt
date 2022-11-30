@@ -1,0 +1,13 @@
+GUI:
+
+advancements.png
+
+Items:
+
+heart_amulet.png
+relic_apple.png
+
+Slots:
+
+empty_heartamulet.png
+
