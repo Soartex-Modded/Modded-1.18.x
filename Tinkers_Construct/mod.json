@@ -1,0 +1,15 @@
+{
+    "mod_id": "tconstruct",
+    "mod_name": "Tinkers' Construct",
+    "mod_filename": "TConstruct-1.18.2-3.5.3.63.jar",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "mDiyo",
+        "bonusboni",
+        "KnightMiner",
+        "Alexbegt"
+    ],
+    "url_website": "https://github.com/SlimeKnights/TinkersConstruct",
+    "description": "Modify all the things, then do it again!",
+    "mod_dir": "/Tinkers_Construct/"
+}
