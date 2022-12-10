@@ -1,0 +1,12 @@
+{
+    "mod_filename": "create-1.18.2-0.5.0.e.jar",
+    "mod_id": "create",
+    "mod_name": "Create",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "simibubi"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/create",
+    "description": "",
+    "mod_dir": "/Create/"
+}
