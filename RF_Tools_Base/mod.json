@@ -1,0 +1,12 @@
+{
+    "mod_id": "rftoolsbase",
+    "mod_name": "RFTools Base",
+    "mod_filename": "rftoolsbase-1.18-3.0.11.jar",
+    "mc_version": "1.8.2",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "",
+    "description": "RFTools, blocks and items to help with Redflux (dimension builder, crafter, monitor, scanner, ...)",
+    "mod_dir": "/RF_Tools_Base/"
+}
