@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "soartex_base:blocks/resource/ore/deepslate/niter"
-  }
-}
