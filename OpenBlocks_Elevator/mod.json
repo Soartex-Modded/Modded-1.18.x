@@ -1,0 +1,12 @@
+{
+    "mod_filename": "elevatorid-1.18.2-1.8.4.jar",
+    "mod_id": "elevatorid",
+    "mod_name": "OpenBlocks Elevator",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "vsngarcia"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator",
+    "description": "",
+    "mod_dir": "/OpenBlocks_Elevator/"
+}
