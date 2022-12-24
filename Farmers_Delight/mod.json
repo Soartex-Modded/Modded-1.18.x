@@ -1,0 +1,12 @@
+{
+    "mod_filename": "FarmersDelight-1.18.2-1.2.0.jar",
+    "mod_id": "farmersdelight",
+    "mod_name": "Farmer's Delight",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "vectorwing"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+    "description": "",
+    "mod_dir": "/Farmers_Delight/"
+}
