@@ -1,0 +1,12 @@
+{
+    "mod_id": "pneumaticcraft",
+    "mod_name": "PneumaticCraft: Repressurized",
+    "mod_dir": "/PneumaticCraft_Repressurized/",
+    "mod_version": "pneumaticcraft-repressurized-1.18.2-3.4.4-14.jar",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "desht_08"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized",
+    "description": "A technical mod all about pneumatics!"
+}

@@ -1,0 +1,12 @@
+{
+    "mod_filename": "InventoryFree-1.18.2-3.1.1.jar",
+    "mod_id": "inventory_free",
+    "mod_name": "Inventory-Free",
+    "mc_version": "1.18.2",
+    "mod_authors": [
+        "Kirderf1"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/inventory-free",
+    "description": "",
+    "mod_dir": "/Inventory_Free/"
+}
