@@ -1,0 +1,88 @@
+{
+	"credit": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+	"parent": "create:block/block",
+	"textures": {
+		"5": "create:block/horizantal_saw_side",
+		"slit": "create:block/mechanical_saw_top",
+		"gearbox": "create:block/gearbox",
+		"andesite_casing_short": "create:block/andesite_casing_short",
+		"particle": "create:block/gearbox_top",
+		"gearbox_top": "create:block/gearbox_top"
+	},
+	"elements": [
+		{
+			"name": "Bottom",
+			"from": [0, 0, 0],
+			"to": [16, 2, 12],
+			"faces": {
+				"north": {"uv": [0, 14, 16, 16], "texture": "#andesite_casing_short"},
+				"east": {"uv": [0, 4, 2, 16], "rotation": 270, "texture": "#5"},
+				"south": {"uv": [0, 2, 16, 4], "texture": "#5"},
+				"west": {"uv": [14, 4, 16, 16], "rotation": 90, "texture": "#5"},
+				"up": {"uv": [0, 4, 16, 16], "texture": "#andesite_casing_short"},
+				"down": {"uv": [0, 4, 16, 16], "texture": "#andesite_casing_short"}
+			}
+		},
+		{
+			"name": "Top",
+			"from": [0, 14, 0],
+			"to": [16, 16, 12],
+			"faces": {
+				"north": {"uv": [0, 4, 16, 6], "texture": "#andesite_casing_short"},
+				"east": {"uv": [14, 4, 16, 16], "rotation": 270, "texture": "#5"},
+				"south": {"uv": [0, 2, 16, 4], "texture": "#5"},
+				"west": {"uv": [0, 4, 2, 16], "rotation": 90, "texture": "#5"},
+				"up": {"uv": [0, 4, 16, 16], "texture": "#andesite_casing_short"},
+				"down": {"uv": [0, 4, 16, 16], "texture": "#andesite_casing_short"}
+			}
+		},
+		{
+			"name": "Back",
+			"from": [0, 2, 0],
+			"to": [2, 14, 2],
+			"faces": {
+				"north": {"uv": [14, 2, 16, 14], "texture": "#gearbox"},
+				"east": {"uv": [14, 2, 16, 14], "texture": "#gearbox_top"},
+				"south": {"uv": [0, 2, 2, 14], "texture": "#gearbox_top"},
+				"west": {"uv": [2, 14, 14, 16], "rotation": 90, "texture": "#5"}
+			}
+		},
+		{
+			"name": "Inner",
+			"from": [0, 2, 2],
+			"to": [16, 14, 11],
+			"faces": {
+				"east": {"uv": [2, 5, 14, 14], "rotation": 270, "texture": "#5"},
+				"south": {"uv": [0, 2, 16, 14], "texture": "#gearbox_top"},
+				"west": {"uv": [2, 5, 14, 14], "rotation": 90, "texture": "#5"}
+			}
+		},
+		{
+			"name": "SawSlit",
+			"from": [0.5, 6, 11.062],
+			"to": [15.5, 10, 11.062],
+			"faces": {
+				"south": {"uv": [0.5, 6, 15.5, 10], "texture": "#slit"}
+			}
+		},
+		{
+			"name": "Back",
+			"from": [14, 2, 0],
+			"to": [16, 14, 2],
+			"faces": {
+				"north": {"uv": [0, 2, 2, 14], "texture": "#gearbox"},
+				"east": {"uv": [2, 14, 14, 16], "rotation": 270, "texture": "#gearbox"},
+				"south": {"uv": [0, 2, 2, 14], "texture": "#gearbox"},
+				"west": {"uv": [0, 2, 2, 14], "texture": "#gearbox"}
+			}
+		},
+		{
+			"name": "Back",
+			"from": [2, 2, 1],
+			"to": [14, 14, 2],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 14], "texture": "#gearbox"}
+			}
+		}
+	]
+}

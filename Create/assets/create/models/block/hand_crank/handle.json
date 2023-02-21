@@ -1,0 +1,74 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"4": "create:block/handcrank"
+	},
+	"elements": [
+		{
+			"name": "Connector",
+			"from": [5, 5, 11],
+			"to": [11, 11, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 6], "texture": "#4"},
+				"east": {"uv": [0, 6, 3, 12], "texture": "#4"},
+				"south": {"uv": [0, 0, 6, 6], "texture": "#4"},
+				"west": {"uv": [0, 6, 3, 12], "texture": "#4"},
+				"up": {"uv": [0, 12, 6, 15], "texture": "#4"},
+				"down": {"uv": [0, 12, 6, 15], "texture": "#4"}
+			}
+		},
+		{
+			"name": "Arm",
+			"from": [-2, 6, 10],
+			"to": [14, 10, 13],
+			"faces": {
+				"north": {"uv": [8, 0, 12, 16], "rotation": 270, "texture": "#4"},
+				"east": {"uv": [12, 0, 16, 3], "rotation": 270, "texture": "#4"},
+				"south": {"uv": [8, 0, 12, 16], "rotation": 90, "texture": "#4"},
+				"west": {"uv": [12, 0, 16, 3], "rotation": 90, "texture": "#4"},
+				"up": {"uv": [8.5, 0, 11.5, 16], "rotation": 90, "texture": "#4"},
+				"down": {"uv": [8.5, 0, 11.5, 16], "rotation": 90, "texture": "#4"}
+			}
+		},
+		{
+			"name": "Connector",
+			"from": [0, 7, 9],
+			"to": [2, 9, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"north": {"uv": [13, 0.5, 15, 2.5], "texture": "#4"},
+				"east": {"uv": [13.5, 0.5, 14.5, 2.5], "texture": "#4"},
+				"south": {"uv": [13, 0.5, 15, 2.5], "texture": "#4"},
+				"west": {"uv": [13.5, 0.5, 14.5, 2.5], "texture": "#4"},
+				"up": {"uv": [13, 1, 15, 2], "texture": "#4"},
+				"down": {"uv": [13, 1, 15, 2], "texture": "#4"}
+			}
+		},
+		{
+			"name": "Grip",
+			"from": [-0.5, 6.5, 3],
+			"to": [2.5, 9.5, 9],
+			"rotation": {"angle": 45, "axis": "z", "origin": [1, 8, 9]},
+			"faces": {
+				"north": {"uv": [13, 13, 16, 16], "rotation": 90, "texture": "#4"},
+				"east": {"uv": [13, 7, 16, 13], "rotation": 90, "texture": "#4"},
+				"south": {"uv": [13, 13, 16, 16], "texture": "#4"},
+				"west": {"uv": [13, 7, 16, 13], "rotation": 90, "texture": "#4"},
+				"up": {"uv": [13, 7, 16, 13], "texture": "#4"},
+				"down": {"uv": [13, 7, 16, 13], "texture": "#4"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "shaft_half",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		},
+		1,
+		2,
+		3
+	]
+}
