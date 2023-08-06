@@ -1,0 +1,12 @@
+{
+    "mod_filename": "journeymap-1.18.2-5.9.7-forge.jar",
+    "mod_id": "journeymap",
+    "mod_name": "JourneyMap",
+    "mc_version": "1.18.3",
+    "mod_authors": [
+        "techbrew"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
+    "description": "",
+    "mod_dir": "/JourneyMap/"
+}
